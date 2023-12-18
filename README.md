@@ -3,7 +3,7 @@
 ### About me
 
  - :metal: I am a data scientist and my motto is: "_The answer is there, blowing in the bulk_".
- - :man_technologist: My specialty is to disentangle, integrate, analyze and visualize complex multi-omics data.
+ - :man_technologist: My specialty is to disentangle multi-omics and to develop pipelines for the analysis of NGS datasets.
  - :mountain_snow: If I am not on the shell, probably I am on the Swiss alps.
 
 ### Toolkit
