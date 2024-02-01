@@ -4,7 +4,7 @@
 
  - :metal: I am a data scientist and my motto is: "_The answer is there, blowing in the bulk_".
  - :man_technologist: My specialty is to disentangle multi-omics and to develop pipelines for the analysis of NGS datasets.
- - :mountain_snow: If I am not on the shell, probably I am on the Swiss alps.
+ - :mountain_snow: If I am not on the shell, probably I am in the Swiss alps.
 
 ### Toolkit
 
@@ -16,6 +16,7 @@
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
   <img alt="Perl" src="https://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=perl&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
