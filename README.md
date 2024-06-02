@@ -4,6 +4,7 @@
 
  - :dart: Self-driven and lifelong learner on a mission to advance biomedical genomics.
  - :rescue_worker_helmet: I love mining relevant information out of data. My motto is: 'The answer is there, blowing in the bulk'.
+ - :hammer_and_wrench: I let the problem choose the tools: I am a Linux-savvy and fluent in R, Python, Bash, Perl.
  - :mountain_snow: If I am not on the shell, probably I am in the Swiss alps.
 
 ### Toolkit
